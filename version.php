@@ -25,9 +25,9 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component  = 'gradingform_mathsa';
-$plugin->version    = 2019112000;
+$plugin->version    = 20200502;
 
-$plugin->requires   = 2019051100;
+$plugin->requires   = 2018050800;
 
 $plugin->maturity   = MATURITY_ALPHA;
 
